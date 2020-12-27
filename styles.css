@@ -38,7 +38,6 @@ nav .mainMenu li a {
 
 nav .mainMenu li a:hover{
     font-size: 2.9rem;
-    border: 2px solid lime;
     color: yellow;
     padding: 0;
     margin: 0;
